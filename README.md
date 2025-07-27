@@ -11,6 +11,7 @@
   <img align="center" alt="Chris-Post" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" alt="Chris-Azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
   <img align="center" alt="Chris-Azure_SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Chris-ADF" height="50" width="60" src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" />
           
           
 </div>
