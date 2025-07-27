@@ -1,6 +1,6 @@
 ## Sejam Bem vindos! 👋
 
-- 🔭 Atualmente sou Estagiário na área de Dados como Analista/Engenheiro.
+- 🔭 Sou o Christopher Coelho, atuo como Analista de Dados Junior.
 - 🌱 Estudando conceitos de Engenharia de Dados, melhores práticas, estrutura, modelagem, criação e manutanção de pipelines
  e procurando conhecer as ferramentas mais inovadoras no mercado.
 
